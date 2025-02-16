@@ -13,7 +13,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Home Network
 
 Using Cisco Packet Tracer I established a Home Network that supported the use of a PC, Laptop, Cable Modem, and a wireless router.
-https://github.com/pacy035/Will.github.io/blob/main/Home%20Network.pdf
+
+[Documentation for Home Network](https://github.com/pacy035/Will.github.io/blob/main/Home%20Network.pdf)
 ## Header 2
 
 > This is a blockquote following a header.
