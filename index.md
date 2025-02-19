@@ -23,6 +23,9 @@ Using Elastic Cloud I installed an agent onto my Virtual Machine to monitor and 
 
 [Documenation for SIEM](https://github.com/pacy035/Will.github.io/blob/main/Creating%20and%20Running%20SIEM.pdf)
 
+##TryHackMe Blue Box
+Using Metasploit I exploited the MS17 weakness of the Windows machine by delivering a stager payload that called back to my machine. This allowed me to run a script that escalated the shell session to a Meterpreter session to find all 3 flags placed in the Windows machine.
+[Proof of Completion](https://github.com/pacy035/Will.github.io/blob/b7ff4006fcabf922a2f40f543f20cb11c3c97843/THM%20Blue%20Metasploit%20Badge.png)
 
 
 
