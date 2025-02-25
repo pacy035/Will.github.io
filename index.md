@@ -7,13 +7,12 @@ layout: default
 
 # Projects:
 
-<center>
+
 ## Home Network
 
 Using Cisco Packet Tracer I established a Home Network that supported the use of a PC, Laptop, Cable Modem, and a wireless router.
 
 [Documentation for Home Network](https://github.com/pacy035/Will.github.io/blob/main/Home%20Network.pdf)
-</center>
 
 ## SIEM Creation and Utilization
 
