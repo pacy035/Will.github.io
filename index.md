@@ -7,7 +7,6 @@ layout: default
 
 # Projects:
 
-
 ## Home Network
 
 Using Cisco Packet Tracer I established a Home Network that supported the use of a PC, Laptop, Cable Modem, and a wireless router.
