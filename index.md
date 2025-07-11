@@ -40,6 +40,7 @@ Using Snort, I stopped a brute force attack on my virtual machine by creating tw
 
 
 # Certifications
+<img width="954" height="566" alt="image" src="https://github.com/user-attachments/assets/dc30d90e-e9c5-403a-a64c-1858f695e044" />
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c28f707e-35c8-433b-99af-815eb7d7cefd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5aa848f6-22ea-477f-8737-0b5630ce0088" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
