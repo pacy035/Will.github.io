@@ -7,6 +7,13 @@ layout: default
 
 # Projects:
 
+## Terraform: Creating a Storage Account Within Microsoft Azure Using IaC
+<img width="595" height="676" alt="image" src="https://github.com/user-attachments/assets/54075256-96d1-48a3-b402-d531bfb5543c" />
+
+<img width="630" height="595" alt="image" src="https://github.com/user-attachments/assets/b61177db-a3e9-4ebf-9f91-228885e76c0d" />
+
+[Documentation for Azure Storage Account](https://github.com/pacy035/Will.github.io/blob/main/Terraform%20Creating%20An%20Azure%20Storage%20Account.pdf)
+
 ## Home Network
 
 Using Cisco Packet Tracer I established a Home Network that supported the use of a PC, Laptop, Cable Modem, and a wireless router.
