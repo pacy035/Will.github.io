@@ -3,7 +3,7 @@ layout: default
 ---
 
  <button>
-    <a type="button" href="Resume.md"> Resume</a>
+    <a type="button" href="[Resume.md](https://pacy035.github.io/resume)"> Resume</a>
  </button> 
 
 # TryHackMe Profile                                                                                                    
