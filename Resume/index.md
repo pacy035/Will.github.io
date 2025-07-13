@@ -3,6 +3,10 @@ layout: default
 title: Will Lacy's Resume
 ---
 
+ <button>
+    <a type="button" href=" "> Portfolio</a>
+ </button> 
+
 # William Lacy's Resume
 318-422-1010 | willplcy@gmail.com | linkedin.com/in/WillLacy
 
