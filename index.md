@@ -3,10 +3,10 @@ layout: default
 ---
 
  <button>
-    <a type="button" href="Resume/"> Resume</a>
+    <a type="button" href="https://pacy035.github.io/Resume/"> Resume</a>
  </button> 
   <button>
-    <a type="button" href="Certifications/"> Certifications</a>
+    <a type="button" href="https://pacy035.github.io/Certifications/"> Certifications</a>
  </button> 
 
 # TryHackMe Profile                                                                                                    
