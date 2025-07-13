@@ -6,6 +6,9 @@ title: Will Lacy's Resume
  <button>
     <a type="button" href="https://pacy035.github.io/"> Portfolio</a>
  </button> 
+ <button>
+    <a type="button" href="Certifications/"> Certifications</a>
+ </button> 
 
 # William Lacy's Resume
 318-422-1010 | willplcy@gmail.com | linkedin.com/in/WillLacy
