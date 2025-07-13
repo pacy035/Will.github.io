@@ -4,7 +4,7 @@ title: Will Lacy's Resume
 ---
 
  <button>
-    <a type="button" href=" "> Portfolio</a>
+    <a type="button" href="https://pacy035.github.io/"> Portfolio</a>
  </button> 
 
 # William Lacy's Resume
