@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Will Lacy's Resume
 ---
 
 # William Lacy's Resume
