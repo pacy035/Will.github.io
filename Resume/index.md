@@ -7,7 +7,7 @@ title: Will Lacy's Resume
     <a type="button" href="https://pacy035.github.io/"> Portfolio</a>
  </button> 
  <button>
-    <a type="button" href="Certifications/"> Certifications</a>
+    <a type="button" href="https://pacy035.github.io/Certifications/"> Certifications</a>
  </button> 
 
 # William Lacy's Resume
