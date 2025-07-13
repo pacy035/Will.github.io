@@ -4,7 +4,7 @@ title: Will Lacy's Certifications
 ---
 
  <button>
-    <a type="button" href="Resume/"> Resume</a>
+    <a type="button" href="/Resume/"> Resume</a>
  </button> 
   <button>
     <a type="button" href="https://pacy035.github.io/"> Portfolio</a>
