@@ -10,14 +10,8 @@ title: Will Lacy's Certifications
     <a type="button" href="https://pacy035.github.io/"> Portfolio</a>
  </button> 
 
-<iframe src="/Certifications/Microsoft AZ104 Certification.pdf" width="100%" height="600px">
-  This browser does not support PDFs. Please download the PDF to view it: 
-  <a href="/Certifications/Microsoft AZ104 Certification.pdf">Download PDF</a>.
-</iframe>
-<iframe src="/Certifications/Microsoft AZ900 Certification.pdf" width="100%" height="600px">
-  This browser does not support PDFs. Please download the PDF to view it: 
-  <a href="/Certifications/Microsoft AZ900 Certification.pdf">Download PDF</a>.
-</iframe>
+![Microsoft Azure Administrator](/Certifications/AZ104.JPG)
+![Microsoft Azure Fundamentals](/Certifications/AZ900.JPG)
 
 ![Oracle Cloud Foundations Associate](/Certifications/Oracle Cloud Assosciate Cert.jpeg)
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c28f707e-35c8-433b-99af-815eb7d7cefd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
