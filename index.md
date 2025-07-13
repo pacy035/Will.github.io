@@ -3,7 +3,7 @@ layout: default
 ---
 
  <button>
-    <a type="button" href="Resume"> Resume</a>
+    <a type="button" href="Resume/"> Resume</a>
  </button> 
 
 # TryHackMe Profile                                                                                                    
