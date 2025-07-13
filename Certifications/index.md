@@ -10,9 +10,9 @@ title: Will Lacy's Certifications
     <a type="button" href="https://pacy035.github.io/"> Portfolio</a>
  </button> 
 
-<iframe src="/Certifications/Microsoft-AZ104-Certification.pdf" width="100%" height="600px">
+<iframe src="/Certifications/Microsoft AZ104 Certification.pdf" width="100%" height="600px">
   This browser does not support PDFs. Please download the PDF to view it: 
-  <a href="/Certifications/Microsoft-AZ104-Certification.pdf">Download PDF</a>.
+  <a href="/Certifications/Microsoft AZ104 Certification.pdf">Download PDF</a>.
 </iframe>
 <iframe src="/Certifications/Microsoft AZ900 Certification.pdf" width="100%" height="600px">
   This browser does not support PDFs. Please download the PDF to view it: 
