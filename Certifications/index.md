@@ -10,6 +10,8 @@ title: Will Lacy's Certifications
     <a type="button" href="https://pacy035.github.io/"> Portfolio</a>
  </button> 
 
+ # Certifications: 
+
 ![Microsoft Azure Administrator](/Certifications/AZ104.JPG)
 ![Microsoft Azure Fundamentals](/Certifications/AZ900.JPG)
 
