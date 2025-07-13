@@ -3,6 +3,13 @@ layout: default
 title: Will Lacy's Certifications
 ---
 
+ <button>
+    <a type="button" href="Resume/"> Resume</a>
+ </button> 
+  <button>
+    <a type="button" href="https://pacy035.github.io/"> Portfolio</a>
+ </button> 
+
 ![Microsoft Azure Administrator](/pacy035.github.io/Certifications/Microsoft AZ104 Certification.pdf)
 ![Microsoft Azure Fundamentals](/pacy035.github.io/Certifications/Microsoft AZ900 Certification.pdf)
 
